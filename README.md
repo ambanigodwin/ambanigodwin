@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ambanigodwin
 - 👀 I’m interested in embedded system software development
-- 🌱 I’m currently learning ful stack software engineering at ALX
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m trying to become a data engineer then an embedded systems specialist. Hope to be good in both...
+- 💞️ I’m looking to collaborate on data engineering projects
+- 📫 How to reach me ... DM on Twitter!
 
 <!---
 ambanigodwin/ambanigodwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
